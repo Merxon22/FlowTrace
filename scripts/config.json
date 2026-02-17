@@ -1,0 +1,18 @@
+{
+    "start_of_day": 6,
+    "output_dir": "../outputs/",
+    
+    "capture_interval": 60,
+    "image_similarity_threshold": 0.95,
+    "screenshot_dir": "../screenshots/",
+
+    "vlm_model_path": "../pretrained_models/Qwen3VL-4B-Instruct-Q4_K_M.gguf",
+    "vlm_proj_path": "../pretrained_models/mmproj-Qwen3VL-4B-Instruct-Q8_0.gguf",
+    "vlm_parallel": 4,
+    "vlm_ctx_size": 32768,
+    
+    "llm_model_path": "../pretrained_models/Qwen3-8B-Q4_K_M.gguf",
+    "llm_ctx_size": 24576,
+    "llm_category_parallel": 2,
+    "llm_category_batch_size": 4
+}

@@ -1,0 +1,8 @@
+venv
+.vscode
+__pycache__
+pretrained_models
+outputs
+screenshots
+test_scripts
+*.lock

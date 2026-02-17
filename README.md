@@ -53,7 +53,7 @@ This project uses Qwen3 models in GGUF format. Alternative **[GGUF](https://en.w
 - **Has models in different sizes:** most people can probably find the right model that runs on their machine.
 
 Refer to the "FAQ" section to learn about how to find the model that fits your machine. For an RTX 3060 12GB, these models work well:
-- `Qwen3VL-4B-Instruct-Q4_K_M.gguf` and its `mproj` file (`mmproj-Qwen3VL-4B-Instruct-Q8_0.gguf`) found **[here](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-GGUF/blob/main/Qwen3VL-4B-Instruct-Q4_K_M.gguf)**. The `mproj` file is necessary for a VLM model to perform visual task.
+- `Qwen3VL-4B-Instruct-Q4_K_M.gguf` and its `mproj` file (`mmproj-Qwen3VL-4B-Instruct-Q8_0.gguf`) found **[here](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct-GGUF/tree/main)**. The `mproj` file is necessary for a VLM model to perform visual task.
 - `Qwen3-8B-Q4_K_M.gguf` found **[here](https://huggingface.co/Qwen/Qwen3-8B-GGUF/tree/main)**.
 
 ### 5. Configure Settings

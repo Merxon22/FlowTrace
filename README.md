@@ -4,6 +4,13 @@
 
 An AI-powered pipeline that automatically tracks and analyzes your computer activity. All processing is done locally to ensure privacy.
 
+## Sample Output
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="/template_output/a.png" style="width: 32%; height: auto; object-fit: contain;" />
+  <img src="/template_output/b.png" style="width: 32%; height: auto; object-fit: contain;" /> 
+  <img src="/template_output/c.png" style="width: 32%; height: auto; object-fit: contain;" />
+</p>
+
 ## Prerequisites
 
 - **Operating System**: Developed for Windows; compatible with macOS/Linux with minor modifications (see below)
